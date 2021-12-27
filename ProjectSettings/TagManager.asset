@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BorderWall
+  - EmitterWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Ground
+  - Active Zone
+  - Foreground
+  - Walls
+  - Emitter Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3073423977
+    locked: 0
+  - name: Ground
+    uniqueID: 2073854707
+    locked: 0
+  - name: Active Zone
+    uniqueID: 2116315593
+    locked: 0
+  - name: Foreground
+    uniqueID: 1701336563
+    locked: 0
+  - name: UI
+    uniqueID: 39636873
+    locked: 0
